@@ -2,4 +2,8 @@ stampe/consegne_per_utenza/*
 stampe/consegne_odierne/*
 stampe/stampe_utenze/*
 
+!stampe/consegne_per_utenza/placeholder.md
+!stampe/consegne_odierne/placeholder.md
+!stampe/stampe_utenze/placeholder.md
+
 ~*
